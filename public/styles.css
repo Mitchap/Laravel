@@ -1,0 +1,30 @@
+body{
+    background-color: #558188;
+}
+.card{
+    background-color: #DADAC3;
+}
+h1{
+    color: #243838;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #E3D69D;
+   }
+   th, td {
+    text-align: left;
+    padding: 10px;
+    border: 1px solid #adadad;
+   }
+.btn-back{
+    background-color: #FF9C5F;
+    color:#243838
+}
+.btn-back:hover{
+    background-color: #fc7826;
+}
